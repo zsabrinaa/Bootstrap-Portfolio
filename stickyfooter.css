@@ -33,6 +33,21 @@ html {
   code {
     font-size: 80%;
   }
-.blur {
-    opacity: 0.8;
+
+.whitetext {
+  color: white;
+}
+.nicefont {
+  font-family: 'Permanent Marker', cursive;
+  line-height: 40px;
+}
+.picborder {
+  border: dotted darkgray 5px;
+}
+.textdecor {
+  text-decoration: underline wavy darkgray;
+}
+.bgblur{
+  background: white;
+  opacity: 0.8;
 }
